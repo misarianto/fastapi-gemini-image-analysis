@@ -1,8 +1,8 @@
 ### FASTAPI GEMINI IMAGE ANALYSIS
 
-Create API KEY [disini]("https://aistudio.google.com/apikey")
+Create API KEY [disini](https://aistudio.google.com/apikey)
 
-Anda dapat menjalankan perintah ini dari Gemini API, setelah menginstal paket yang relevan, dengan menjalankan kode berikut: [disini]("https://aistudio.google.com/prompts/new_chat")
+Anda dapat menjalankan perintah ini dari Gemini API, setelah menginstal paket yang relevan, dengan menjalankan kode berikut: [disini](https://aistudio.google.com/prompts/new_chat)
 
 ### Set Environment Variable
 
