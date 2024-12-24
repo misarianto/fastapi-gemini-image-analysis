@@ -10,7 +10,6 @@ Edit file `~/.bashrc:`
 
 ```
 nano ~/.bashrc
-
 ```
 Tambahkan baris berikut di bagian bawah file:
 
@@ -35,7 +34,7 @@ masuk ke folder project
 
 ```
 cd fastapi-gemini-image-analysis
-``
+```
 
 buat environment
 
