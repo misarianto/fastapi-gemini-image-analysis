@@ -61,3 +61,7 @@ pip install -r requirements.txt
 ```
 fastapi run main.py
 ```
+
+### Implementasi
+
+![Hasil Analisis](image.png)
